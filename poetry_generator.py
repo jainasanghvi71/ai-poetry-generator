@@ -23,7 +23,7 @@ def generate_poem():
         w1, w2 = random.sample(words, 2)
         blended = blend_words(w1, w2, intensity=np.random.rand())
         line = f"{w1} and {w2} make {blended}"
-        lines.append(line.capitalize())
+        lines.append(line.capitalize() + ",\n")
     return "\n".join(lines)
 
 # Start the poetry generation - Step 3

@@ -13,16 +13,16 @@ Will generate Poetry like this.
 
 1. ✨ AI-Generated Poem ✨
 
-Whisper and night make whisper
-Dream and light make light
-Night and river make night
+Whisper and night make whisper,
+Dream and light make light,
+Night and river make night,
 Whisper and night make whisper
 
 2. ✨ AI-Generated Poem ✨
 
-Dream and love make dream
-Night and whisper make light
-Love and dream make river
+Dream and love make dream,
+Night and whisper make light,
+Love and dream make river,
 Dream and star make dream
 
 Thank You !!
