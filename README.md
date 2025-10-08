@@ -26,3 +26,4 @@ Love and dream make river,
 Dream and star make dream
 
 Thank You !!
+![AI Poetry Example](assets/poem-example.png)
